@@ -1,0 +1,20 @@
+{
+  "status": 0,
+  "message": "",
+  "data": {
+    "postId": "1226979621736977408",
+    "title": "解决方案-技术咨询方向",
+    "projectName": "应届实习",
+    "workCityList": ["西安", "深圳总部"],
+    "recruitCityList": ["远程面试"],
+    "desc": "职责示例",
+    "request": "要求示例",
+    "intentionBGDList": [
+      {
+        "departmentList": [
+          {"name": "腾讯云-智慧行业方向"}
+        ]
+      }
+    ]
+  }
+}

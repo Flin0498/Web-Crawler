@@ -1,0 +1,3 @@
+# 无命令行参数时读取本文件。url= 必填；mode= 或 fields= 二选一（可组合）
+url=https://join.qq.com/post_detail.html?postid=1226979621736977408
+fields=岗位名称,岗位职责
