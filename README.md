@@ -7,8 +7,6 @@
 
 [English](#english) | [简体中文](#简体中文)
 
-Repository: [github.com/Flin0498/Web-Crawler](https://github.com/Flin0498/Web-Crawler)
-
 ---
 
 <h2 id="english">English</h2>
